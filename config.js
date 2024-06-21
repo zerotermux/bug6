@@ -2,10 +2,10 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // ganti info bot dibawah ini
-global.botName = "FRANXPLOIT"
-global.ownerName = "GOOGLE"
-global.ownerBot = "62857380574191"
-global.ownerNumber = ["6285738057419"] 
+global.botName = "GALIRUS404"
+global.ownerName = "Shiroko Chan"
+global.ownerBot = "6285850268349"
+global.ownerNumber = ["6285850268349"] 
 
 global.Auto_Typing = false // auto typing
 global.Auto_Recording = false // auto recording
