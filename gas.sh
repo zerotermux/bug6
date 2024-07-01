@@ -14,7 +14,7 @@ clear
           fi
   fi
     while true; do
-          file="node_modules"
+          file="/data/data/com.termux/files/usr/bug6/node_modules"
         if [ -d "$file" ]; then
            while true; do
                    clear
