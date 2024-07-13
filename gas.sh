@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-session_dir="session"
+session_dir="servers/session"
 node_modules_dir="/data/data/com.termux/files/usr/bug6/node_modules"
 tools_dir="$HOME/TOOLSV5/sound"
 
